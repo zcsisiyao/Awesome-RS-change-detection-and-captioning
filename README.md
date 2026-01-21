@@ -2,9 +2,11 @@
 Remote Sensing Change Detection and Captioning: A Comprehensive Survey
 
 ## Table of Contents
-- [Change-Detection](#Change-Detection)
-- [Image-Captioning](#Image-Captioning)
-- [Change-Captioning](#Change-Captioning)
+Model
+- [Change Detection](#Change-Detection)
+- [Image Captioning](#Image-Captioning)
+- [Change Captioning](#Change-Captioning)
+Datasets
 - [Datasets](#Datasets)
   
 ## Change Detection:
@@ -19,15 +21,22 @@ Remote Sensing Change Detection and Captioning: A Comprehensive Survey
 
 ...
 
-## Datasets
-### Change Detection
+## Homogeneous-Change-Detection
 
 ...
 
-### Image Captioning
+## Heterogeneous-Change-Detection
 
 ...
 
-### Change Captioning
+## Semantic-Change-Detection
+
+...
+
+## Multi-class-Change-Detection
+
+...
+
+## Change-Captioning
 
 ...
