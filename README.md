@@ -59,6 +59,7 @@ Datasets
 |-|SI-BU|Google Earth|0.5-0.8m|512×512|4932|SI-BU: A Remote Sensing Change Detection Dataset for Small and Medium-Sized Urban Areas|-|-|[Link](https://github.com/liaochengcsu/BCE-Net)|
 |-|TSCD|WorldView-2|0.5m|256×256|5140|TSCD: Temporal-Spatial Remote Sensing Change Detection Dataset|-|-|[Link](https://github.com/MarsZhaoYT/TSCD-Dataset?tab=readme-ov-file)|
 |-|JL1-CD|JiLin-1|0.5m|512×512|5000|JL1-CD: JiLin-1 Satellite High-Resolution Remote Sensing Change Detection Dataset|-|-|[Link](https://github.com/circleLZY/MTKD-CD)|
+
 ...
 
 ## Heterogeneous-Change-Detection
@@ -78,9 +79,20 @@ Datasets
 |-|CAU|Sentinel-1;Sentinel-2|10m|256×256|18302|CAU: Multisource Remote Sensing Change Detection Dataset|-|-|[Link](https://github.com/CAU-HE/CMCDNet)|
 |-|OMBRIA|Sentinel-1;Sentinel-2|10m|256×256|1688|OMBRIA: Multisource Remote Sensing Change Detection Dataset|-|-|[Link](https://github.com/geodrak/OMBRIA)|
 |-|Hi-BCD|-|0.25m|1000×1000|1500|Hi-BCD: High-Resolution Remote Sensing Change Detection Dataset|-|-|[Link](https://github.com/HATFormer/MMCD)|
+
 ...
 
 ## Semantic-Change-Detection
+|Year|Datasets|Sensor|Resolution|Size|Pairs|Title|Publication|Paper Link|Dataset Link|
+|:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|-|SECOND|Sentinel-2|0.5-3m|512×512|4662|SECOND: Multi-Resolution Remote Sensing Change Detection Dataset|-|-|[Link](https://captain-whu.github.io/SCD/)|
+|-|S2Looking|GF;SV;BJ-2|0.5-0.8m|1024×1024|5000|S2Looking: High-Resolution Multisource Remote Sensing Change Detection Dataset|-|-|[Link](https://github.com/S2Looking/Dataset)|
+|-|HRSCD|Google Earth|0.55m|Various|19|HRSCD: High-Resolution Remote Sensing Change Detection Dataset|-|-|[Link](https://github.com/daifeng2016)|
+|-|ChangeNet|-|0.3m|1900×1200|31000|ChangeNet: High-Resolution Remote Sensing Change Detection Dataset|-|-|[Link](https://github.com/jankyee/ChangNet)|
+|-|CNAM-CD|Google Earth|0.5m|512×512|2503|CNAM-CD: High-Resolution Remote Sensing Change Detection Dataset|-|-|[Link](https://github.com/Silvestezhou/CNAM-CD)|
+|-|JL1H|JiLin-1|0.75m|256×256|6000|JL1H: High-Resolution Remote Sensing Change Detection Dataset|-|-|[Link](https://www.jl1mall.com/resrepo/?fromUrl=https://www.jl1mall.com/edu)|
+|-|Landsat-SCD|Landsat|30m|416×416|8468|Landsat-SCD: Remote Sensing Change Detection Dataset|-|-|[Link](https://figshare.com/articles/figure/Landsat-SCD dataset zip/19946135/1)|
+|-|Hi-UCD|Airborne Platform|0.1m|1024×1024|1293|Hi-UCD: High-Resolution Aerial Remote Sensing Change Detection Dataset|-|-|[Link](https://github.com/Daisy-7/Hi-UCD-S)|
 
 ...
 
@@ -98,4 +110,5 @@ Datasets
 |-|LEVIR-CDC|Google Earth|0.5m|256×256|10077|50385|LEVIR-CDC: High-Resolution Remote Sensing Change Detection Dataset|-|-|[Link](https://huggingface.co/datasets/hygge10111/RS-CDC)|
 |-|WHU-CDC|Airborne Platform|0.75m|256×256|7434|37170|WHU-CDC: High-Resolution Aerial Remote Sensing Change Detection Dataset|-|-|[Link](https://huggingface.co/datasets/hygge10111/RS-CDC)|
 |-|SECOND-CC|Landsat|0.5-3m|256×256|6041|30205|SECOND-CC: Multi-Resolution Remote Sensing Change Detection Dataset|-|-|[Link](https://github.com/ChangeCapsInRS/SecondCC)|
+
 ...
