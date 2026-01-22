@@ -16,9 +16,9 @@ Datasets
 - [Multi class Change Detection](#Multi-class-Change-Detection)
   
 ## Change Detection:
-|Year|Model Name|Title|Publication|Paper Link|
-|:---:|---|:---:|:---:|:---:|
-|2020|BGAAE|Bipartite Graph Attention Autoencoders for Unsupervised Change Detection Using VHR Remote Sensing Images|TGRS|[Link](https://github.com/xauter/BGAAE_CD)|
+|Year|Model Name|Title|Publication|Paper Link|Code Link|
+|:---:|---|:---:|:---:|:---:|:---:|
+|2020|BGAAE|Bipartite Graph Attention Autoencoders for Unsupervised Change Detection Using VHR Remote Sensing Images|TGRS|[Link](https://github.com/xauter/BGAAE_CD)|[Link](https://github.com/xauter/BGAAE_CD)|
 
 
 ...
