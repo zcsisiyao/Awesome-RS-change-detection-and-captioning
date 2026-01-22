@@ -112,3 +112,7 @@ Datasets
 |-|SECOND-CC|Landsat|0.5-3m|256×256|6041|30205|SECOND-CC: Multi-Resolution Remote Sensing Change Detection Dataset|-|-|[Link](https://github.com/ChangeCapsInRS/SecondCC)|
 
 ...
+
+Reference
+[1] Deep Learning for High-Resolution Remote Sensing Change Detection: Task Taxonomy, Datasets, and Perspectives.
+
