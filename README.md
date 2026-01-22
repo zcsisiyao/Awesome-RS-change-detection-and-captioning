@@ -16,7 +16,9 @@ Datasets
 - [Multi class Change Detection](#Multi-class-Change-Detection)
   
 ## Change Detection:
-
+|Year|Abbreviation|Title|Publication|Paper Link|
+|:---:|---|:---:|:---:|:---:|
+|2020|BGAAE|Bipartite Graph Attention Autoencoders for Unsupervised Change Detection Using VHR Remote Sensing Images|TGRS|[Link](https://github.com/xauter/BGAAE_CD)|
 
 
 ...
@@ -39,7 +41,7 @@ Datasets
 ## Homogeneous-Change-Detection
 |Year|Datasets|Sensor|Resolution|Size|Pairs|Title|Publication|Paper Link|Dataset Link|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2020|**LEVIR-CD**|Google Earth|0.5m|1024*1024|637|A spatial-temporal attention-based method and a new dataset for remote sensing image change detection|RS|[Link](https://justchenhao.github.io/LEVIR/)|[Link](https://justchenhao.github.io/LEVIR/)|
+|2020|LEVIR-CD|Google Earth|0.5m|1024*1024|637|A spatial-temporal attention-based method and a new dataset for remote sensing image change detection|RS|[Link](https://justchenhao.github.io/LEVIR/)|[Link](https://justchenhao.github.io/LEVIR/)|
 
 ...
 
